@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ADHD Assistant</string>
+    <string name="signupConfirm">I <i>confirm</i> that all my personal data will be stored by the <b>"Attention Deficit and Hyperactivity Disorder Assistant"</b> Application to be used for diagnosis and treatment processes.</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="cbPreTick">"I know all the results of the ADHD test and I undertake that <b>I have read and understood the ethics agreement in detail.</b>"
+
+"I <b>accept</b> and undertake that the ADHD test is not a diagnostic tool, but a guiding assistant in diagnosing my disease."</string>
+
+    <string name="goodResult">"Your attention deficit and hyperactivity test result was positive. Currently, you have very few symptoms of this disease. So you don't have to worry. We recommend that you improve yourself by solving the tests in our application and taking into account the doctor's recommendations."</string>
+
+    <string name="mediumResult">"Your attention deficit and hyperactivity test result was moderate. In case of worsening of symptoms, we recommend consulting a specialist. We recommend that you improve yourself by solving the tests in our application and taking into account the doctor's recommendations."</string>
+
+    <string name="badResult">"According to the results of the attention deficit and hyperactivity test you have done, you have the symptoms of this disease. You can get treatment in safe hands by consulting the specialist closest to you from the experts tab in our application. You can also contribute to your own healing process in this area by playing the games in our application and reading expert advice."</string>
+
+
+</resources>

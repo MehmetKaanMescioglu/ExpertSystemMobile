@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q1h">Question 1</string>
+    <string name="q1">Difficulty paying attention to details or at school, work or other
+making careless mistakes in activities</string>
+    <string name="q2h">Question 2</string>
+    <string name="q2">Maintaining attention in tasks or chores that require attention
+    difficulty</string>
+    <string name="q3h">Question 3</string>
+    <string name="q3">Difficulty listening when swimming face to face with someone</string>
+    <string name="q4h">Question 4</string>
+    <string name="q4">Completing school homework or tasks given at work
+difficulty following instructions given</string>
+    <string name="q5h">Question 5</string>
+    <string name="q5">Difficulty organizing tasks and activities</string>
+    <string name="q6h">Question 6</string>
+    <string name="q6">Avoiding tasks that require long mental effort reluctant to dislike</string>
+    <string name="q7h">Question 7</string>
+    <string name="q7">Losing Items Required for Quests and events (for example:
+school assignments, pencil, book…</string>
+    <string name="q8h">Question 8</string>
+    <string name="q8">Easily distracted</string>
+    <string name="q9h">Question 9</string>
+    <string name="q9">Forgetful in daily activities</string>
+    <string name="q10h">Question 10</string>
+    <string name="q10">Fidgeting of Hands and Feet, inability to sit still</string>
+    <string name="q11h">Question 11</string>
+    <string name="q11">Displacement in Sitting Situations</string>
+    <string name="q12h">Question 12</string>
+    <string name="q12">Feeling Uneasy to Run Around</string>
+    <string name="q13h">Question 13</string>
+    <string name="q13">Difficulty doing leisure activities quietly</string>
+    <string name="q14h">Question 14</string>
+    <string name="q14">It\'s as if the motor is attached to being constantly in motion act like</string>
+    <string name="q15h">Question 15</string>
+    <string name="q15">Talking a lot</string>
+    <string name="q16h">Question 16</string>
+    <string name="q16">Answer before the question is completed</string>
+    <string name="q17h">Question 17</string>
+    <string name="q17">Difficulty in Queue Waiting</string>
+    <string name="q18h">Question 18</string>
+    <string name="q18">Interfering in Others Business or Interrupting Their Conversation</string>
+    <string name="q19h">Question 19</string>
+    <string name="q19">Not Achieving Goals and Feeling of Failure</string>
+    <string name="q20h">Question 20</string>
+    <string name="q20">Inability to finish a job started or difficulty starting a job</string>
+    <string name="q21h">Question 21</string>
+    <string name="q21">Dealing with many jobs/projects at the same time, keeping track of these works
+and difficulty completing</string>
+    <string name="q22h">Question 22</string>
+    <string name="q22">Even if the time and place is not suitable, whatever comes to mind at that moment.
+ propensity to says</string>
+    <string name="q23h">Question 23</string>
+    <string name="q23">Frequent pursuit of great excitement</string>
+    <string name="q24h">Question 24</string>
+    <string name="q24">Inability to tolerate boredom</string>
+    <string name="q25h">Question 25</string>
+    <string name="q25">Not following the paths and rules followed by everyone</string>
+    <string name="q26h">Question 26</string>
+    <string name="q26">Impatience, low frustration threshold</string>
+    <string name="q27h">Question 27</string>
+    <string name="q27">Impulsivity (acting without thinking)</string>
+    <string name="q28h">Question 28</string>
+    <string name="q28">Feeling insecure</string>
+    <string name="q29h">Question 29</string>
+    <string name="q29">Frequent mood swings</string>
+    <string name="q30h">Question 30</string>
+    <string name="q30">Flashing and reacting</string>
+    <string name="q31h">Question 31</string>
+    <string name="q31">Low self-worth</string>
+    <string name="q32h">Question 32</string>
+    <string name="q32">Tapping with fingers, swinging or tapping</string>
+    <string name="q33h">Question 33</string>
+    <string name="q33">Change jobs frequently</string>
+    <string name="q34h">Question 34</string>
+    <string name="q34">Hypersensitivity/intolerance to stress</string>
+    <string name="q35h">Question 35</string>
+    <string name="q35">Difficulty adjusting the time</string>
+    <string name="q36h">Question 36</string>
+    <string name="q36">Forgetfulness</string>
+    <string name="q37h">Question 37</string>
+    <string name="q37">Verbal aggression</string> <string name="q38h">Question 38</string>
+    <string name="q38">Physical aggression</string> <string name="q39h">Question 39</string>
+    <string name="q39">Alcohol use</string> <string name="q40h">Question 40</string>
+    <string name="q40">Substance use</string> <string name="q41h">Question 41</string>
+    <string name="q41">Legal difficulties and problems</string>
+    <string name="q42h">Question 42</string>
+    <string name="q42">Depression</string> <string name="q43h">Question 43</string>
+    <string name="q43">Do not engage in self-harming behavior</string>
+    <string name="q44h">Question 44</string>
+    <string name="q44">Being nervous and nervous for no reason (anxiety)</string> <string name="q45h">Question 45</string>
+    <string name="q45">not enjoying ones job</string> <string name="q46h">Question 46</string>
+    <string name="q46">Feelings of disappointment and discouragement</string>
+    <string name="q47h">Question 47</string>
+    <string name="q47">Long-standing feeling of unhappiness</string>
+    <string name="q48h">Question 48</string>
+    <string name="q48">Failure to reach a level compatible with capacity</string>
+
+
+</resources>
